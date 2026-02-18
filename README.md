@@ -151,7 +151,7 @@ All dashboards incorporate:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/SamuIdhayanI/AgriData-Explorer.git
+git clone https://github.com/AlavanRaja/AgriData-Explorer.git
 ```
 
 #### 2️⃣ Data Cleaning
