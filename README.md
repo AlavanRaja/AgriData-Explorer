@@ -210,11 +210,3 @@ Ensure:
 ✔ Scalable structure for future agricultural datasets
 
 ---
-
-## 🌾 Why This Project Matters
-
-Data-driven agriculture is essential for sustainable growth. By transforming raw agricultural statistics into structured insights, **AgriData Explorer** empowers decision-makers to move from guesswork to precision planning.
-
-This project demonstrates how data engineering + analytics + visualization can bridge the gap between information and impact.
-* 🌍 A storytelling/narrative-style README
-* 📊 A version tailored for data analyst job applications
